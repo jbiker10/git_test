@@ -1,2 +1,2 @@
 # git_test
-testing GIT
+testing GIT - First Time User
